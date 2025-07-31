@@ -7,7 +7,7 @@
 - <b>MERN Stack Web App (MongoDB, Express, React, Node.js) with Cloudinary for Media Storage</b>
   - [RealEstate](https://github.com/AathiraiVasudevan/RealEstate)
 - <b>Full Stack Development with React, MongoDB, and Flask Framework</b>
-  - [Event Management System]
+  - Event Management System
   - [User](https://github.com/Elamathimuthusamy22/event)
   - [Admin-Frontend](https://github.com/Elamathimuthusamy22/event_admin_frontend)
   - [Admin-Backend](https://github.com/Elamathimuthusamy22/event_admin_backend) 
